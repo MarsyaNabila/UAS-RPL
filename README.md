@@ -124,7 +124,8 @@ Fitur data buku juga menggunakan konsep CRUD yang sama. Admin dapat menambahkan 
 
 - `peminjaman/proses_kembali.php`
 
-<img width="948" height="1079" alt="Screenshot 2026-01-23 210152" src="https://github.com/user-attachments/assets/8f98e993-8f6b-422b-9985-055bd42fe6cc" />
+<img width="957" height="1079" alt="image" src="https://github.com/user-attachments/assets/7c02224b-0c57-41c6-ac2d-9caad10a4ede" />
+
 
 <img width="952" height="1079" alt="Screenshot 2026-01-23 210202" src="https://github.com/user-attachments/assets/9276a605-80d7-494d-b2a3-f9080f2ae9e7" />
 

@@ -6,7 +6,7 @@ NIM: 312410338
 
 Kelas: TI.24.A4 
 
-# Sistem Informasi Perpustakaan 
+# Aplikasi Sistem Informasi Perpustakaan 
 Sistem Informasi Perpustakaan adalah aplikasi berbasis web yang digunakan untuk membantu pengelolaan data perpustakaan secara digital, mulai dari data anggota, data buku, proses peminjaman, pengembalian, perhitungan denda, hingga laporan.
 
 Aplikasi ini dibuat untuk memudahkan admin dalam mengelola aktivitas perpustakaan agar lebih cepat, rapi, dan terstruktur.

@@ -1,4 +1,4 @@
-<img width="952" height="1079" alt="Screenshot 2026-01-23 210216" src="https://github.com/user-attachments/assets/6076600e-cb55-48b5-830d-4c0a003e194b" /># Project UAS Rekayasa Perangkat Lunak 
+# Project UAS Rekayasa Perangkat Lunak 
 
 Nama: Marsya Nabila Putri
 

@@ -52,7 +52,8 @@ File `index.php` berfungsi sebagai halaman utama Sistem Informasi Perpustakaan. 
 
 - `proses_login.php`
 
-<img width="952" height="1079" alt="Screenshot 2026-01-23 205933" src="https://github.com/user-attachments/assets/0c5b1b2c-81ff-43ca-80dc-61b813335c4c" />
+<img width="952" height="1079" alt="Screenshot 2026-01-24 030033" src="https://github.com/user-attachments/assets/7f4207c1-4428-4a49-be44-c44c0b9b92b1" />
+
 
 Fitur autentikasi admin berfungsi untuk membatasi akses ke dalam sistem. Proses login dilakukan dengan mencocokkan username dan password yang dimasukkan oleh admin dengan data yang tersimpan di database. Jika data sesuai, sistem akan membuat session sebagai tanda bahwa admin telah berhasil login dan mengizinkan akses ke dashboard serta seluruh menu. Session ini juga digunakan untuk menjaga keamanan agar halaman tidak bisa diakses langsung tanpa login.
 
@@ -60,7 +61,7 @@ Fitur autentikasi admin berfungsi untuk membatasi akses ke dalam sistem. Proses 
 
 - `dashboard.php`
 
-<img width="951" height="1075" alt="image" src="https://github.com/user-attachments/assets/75382f57-88a9-4b94-9c7a-070e867f1f34" />
+<img width="948" height="1079" alt="Screenshot 2026-01-24 030047" src="https://github.com/user-attachments/assets/d76487d3-1711-4391-8247-c3bd56dd9143" />
 
 
 Halaman dashboard berfungsi sebagai pusat navigasi sistem. Dashboard menampilkan menu utama yang mengarah ke pengelolaan anggota, buku, peminjaman, pengembalian, dan laporan. Dashboard juga menampilkan ringkasan informasi seperti jumlah anggota, jumlah buku, data peminjaman aktif, serta riwayat pengembalian. Dengan adanya dashboard, admin dapat langsung melihat kondisi umum sistem tanpa harus membuka setiap menu satu per satu.

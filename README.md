@@ -61,7 +61,7 @@ Fitur autentikasi admin berfungsi untuk membatasi akses ke dalam sistem. Proses 
 
 - `dashboard.php`
 
-<img width="948" height="1079" alt="Screenshot 2026-01-24 030047" src="https://github.com/user-attachments/assets/d76487d3-1711-4391-8247-c3bd56dd9143" />
+<img width="954" height="1079" alt="image" src="https://github.com/user-attachments/assets/279ccf4b-f9ab-4746-bf7d-4ef5247cbced" />
 
 
 Halaman dashboard berfungsi sebagai pusat navigasi sistem. Dashboard menampilkan menu utama yang mengarah ke pengelolaan anggota, buku, peminjaman, pengembalian, dan laporan. Dashboard juga menampilkan ringkasan informasi seperti jumlah anggota, jumlah buku, data peminjaman aktif, serta riwayat pengembalian. Dengan adanya dashboard, admin dapat langsung melihat kondisi umum sistem tanpa harus membuka setiap menu satu per satu.

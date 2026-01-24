@@ -137,7 +137,7 @@ Proses peminjaman buku digunakan untuk mencatat transaksi peminjaman oleh anggot
 
 - `pengembalian/index.php`
 
-- `pengembalian/proses_pengembalian.php
+- `pengembalian/proses_pengembalian.php`
 
 <img width="952" height="1079" alt="Screenshot 2026-01-23 210216" src="https://github.com/user-attachments/assets/867c6d60-59c1-4c2d-af67-a65d5961ee31" />
 

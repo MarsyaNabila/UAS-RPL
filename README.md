@@ -104,9 +104,9 @@ Pengelolaan data anggota dilakukan melalui halaman anggota yang menerapkan fungs
 
 - `buku/proses_edit.php`
 
-<img width="952" height="1079" alt="Screenshot 2026-01-23 210104" src="https://github.com/user-attachments/assets/f9f4f051-2789-41b6-a336-5d3620655c36" />
+<img width="947" height="1076" alt="Screenshot 2026-01-24 160904" src="https://github.com/user-attachments/assets/e8655e4b-b736-4e7c-805a-91aac126767e" />
 
-<img width="953" height="1075" alt="Screenshot 2026-01-23 210112" src="https://github.com/user-attachments/assets/be07383a-e5b4-48a7-9d38-c8014bd38712" />
+<img width="952" height="1079" alt="image" src="https://github.com/user-attachments/assets/d228c10a-c8f2-4f1b-9d05-8372636c2fda" />
 
 <img width="954" height="1079" alt="Screenshot 2026-01-23 210124" src="https://github.com/user-attachments/assets/f28c151f-9776-4476-9982-e02c56f64561" />
 

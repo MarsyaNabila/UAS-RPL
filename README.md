@@ -108,9 +108,10 @@ Pengelolaan data anggota dilakukan melalui halaman anggota yang menerapkan fungs
 
 <img width="952" height="1079" alt="image" src="https://github.com/user-attachments/assets/d228c10a-c8f2-4f1b-9d05-8372636c2fda" />
 
-<img width="954" height="1079" alt="Screenshot 2026-01-23 210124" src="https://github.com/user-attachments/assets/f28c151f-9776-4476-9982-e02c56f64561" />
+<img width="949" height="1079" alt="image" src="https://github.com/user-attachments/assets/69e9a6b1-dbf2-48d4-a4d8-875d01ac47bc" />
 
-<img width="950" height="1079" alt="Screenshot 2026-01-23 210139" src="https://github.com/user-attachments/assets/f8baf411-6e51-4390-933d-1108478d73fb" />
+<img width="952" height="1079" alt="image" src="https://github.com/user-attachments/assets/097afa16-4200-4bca-ad90-ea3215a7a8a5" />
+
 
 Fitur data buku juga menggunakan konsep CRUD yang sama. Admin dapat menambahkan data buku baru seperti judul, pengarang, penerbit, tahun terbit, dan stok buku. Data buku ini disimpan di database dan ditampilkan dalam tabel agar mudah dikelola. Fitur edit dan hapus pada data buku membantu admin dalam memperbarui informasi buku serta menjaga data tetap akurat.
 
@@ -126,7 +127,7 @@ Fitur data buku juga menggunakan konsep CRUD yang sama. Admin dapat menambahkan 
 
 - `peminjaman/proses_kembali.php`
 
-<img width="957" height="1079" alt="image" src="https://github.com/user-attachments/assets/7c02224b-0c57-41c6-ac2d-9caad10a4ede" />
+<img width="952" height="1079" alt="image" src="https://github.com/user-attachments/assets/8b601fa2-604e-4c2f-8f83-eb02a40cb54b" />
 
 
 <img width="952" height="1079" alt="Screenshot 2026-01-23 210202" src="https://github.com/user-attachments/assets/9276a605-80d7-494d-b2a3-f9080f2ae9e7" />
@@ -139,7 +140,8 @@ Proses peminjaman buku digunakan untuk mencatat transaksi peminjaman oleh anggot
 
 - `pengembalian/proses_pengembalian.php`
 
-<img width="952" height="1079" alt="Screenshot 2026-01-23 210216" src="https://github.com/user-attachments/assets/867c6d60-59c1-4c2d-af67-a65d5961ee31" />
+<img width="951" height="1079" alt="image" src="https://github.com/user-attachments/assets/4dbfef48-cbcc-4743-8cb4-2c24a5b43ff9" />
+
 
 Fitur pengembalian buku berfungsi untuk mengubah status peminjaman ketika buku dikembalikan. pengembalian menampilkan seluruh data peminjaman yang telah dikembalikan. Informasi yang ditampilkan meliputi nama anggota, tanggal pinjam, tanggal kembali, status, dan denda. Halaman ini berfungsi sebagai arsip transaksi pengembalian sehingga admin dapat melihat histori pengembalian buku secara lengkap dan terstruktur.
 
@@ -147,7 +149,8 @@ Fitur pengembalian buku berfungsi untuk mengubah status peminjaman ketika buku d
 
 - `laporan/index.php`
 
-<img width="948" height="1079" alt="Screenshot 2026-01-23 210225" src="https://github.com/user-attachments/assets/be7a53e3-b1a9-44a0-9df4-fdc5254a3832" />
+<img width="952" height="1077" alt="image" src="https://github.com/user-attachments/assets/63695e4c-e81a-4fda-ba15-5aea09b55446" />
+
 
 Fitur laporan digunakan untuk menampilkan rekap data peminjaman, pengembalian, dan denda. Laporan ini berguna sebagai bahan evaluasi dan dokumentasi administrasi perpustakaan. Dengan adanya laporan, admin dapat mengetahui aktivitas perpustakaan secara keseluruhan dalam periode tertentu.
 

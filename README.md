@@ -11,6 +11,11 @@ Sistem Informasi Perpustakaan adalah aplikasi berbasis web yang digunakan untuk 
 
 Aplikasi ini dibuat untuk memudahkan admin dalam mengelola aktivitas perpustakaan agar lebih cepat, rapi, dan terstruktur.
 
+## Link Hosting:
+
+https://perpustakaan-app.gt.tc/auth/login.phphttps://perpustakaan-app.gt.tc/auth/login.php
+
+
 ## config (`koneksi.php`)
 
 ```php
@@ -45,6 +50,9 @@ Aplikasi Sistem Informasi Perpustakaan ini dibangun menggunakan PHP dan MySQL de
 File `index.php` berfungsi sebagai halaman utama Sistem Informasi Perpustakaan. Pada bagian `<head>`, halaman ini mengatur judul dan memanggil file `style.css` untuk mengatur tampilan. Di dalam `<body>`, ditampilkan judul sistem serta sebuah link yang mengarahkan pengguna ke halaman pengelolaan data buku. Halaman ini digunakan sebagai pintu masuk awal sebelum pengguna mengakses fitur-fitur lain dalam sistem.
 
 ## Login Admin
+
+- *Username: admin*
+- *Password: admin*
 
 - `auth/login.php`
 

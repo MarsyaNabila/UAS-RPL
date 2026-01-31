@@ -142,7 +142,8 @@ Fitur data buku juga menggunakan konsep CRUD yang sama. Admin dapat menambahkan 
 <img width="952" height="1079" alt="image" src="https://github.com/user-attachments/assets/8b601fa2-604e-4c2f-8f83-eb02a40cb54b" />
 
 
-<img width="952" height="1079" alt="Screenshot 2026-01-23 210202" src="https://github.com/user-attachments/assets/9276a605-80d7-494d-b2a3-f9080f2ae9e7" />
+<img width="954" height="1079" alt="image" src="https://github.com/user-attachments/assets/50c1e3c5-3d6e-4ca8-949a-de59da2dfb6f" />
+
 
 Proses peminjaman buku digunakan untuk mencatat transaksi peminjaman oleh anggota. Saat peminjaman dilakukan, sistem akan menyimpan data anggota, tanggal peminjaman, dan status peminjaman ke dalam tabel peminjaman. Status awal peminjaman ditandai sebagai “Dipinjam” sehingga sistem dapat membedakan buku yang masih dipinjam dan yang sudah dikembalikan. Data peminjaman ini ditampilkan dalam halaman peminjaman agar admin dapat memantau buku yang sedang dipinjam.
 

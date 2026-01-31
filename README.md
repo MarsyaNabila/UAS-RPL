@@ -13,7 +13,7 @@ Aplikasi ini dibuat untuk memudahkan admin dalam mengelola aktivitas perpustakaa
 
 ## Link Hosting:
 
-https://perpustakaan-app.gt.tc/auth/login.php
+https://caperpuss.free.nf/auth/login.php
 
 
 ## config (`koneksi.php`)

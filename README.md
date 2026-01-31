@@ -20,12 +20,16 @@ https://perpustakaan-app.gt.tc/auth/login.php
 
 ```php
 <?php
-$conn = mysqli_connect("localhost", "root", "", "db_perpustakaan");
+$host = "localhost";
+$user = "root";
+$pass = "";
+$db   = "db_perpustakaan";
+
+$conn = mysqli_connect($host, $user, $pass, $db);
 
 if (!$conn) {
-    die("Koneksi database gagal: " . mysqli_connect_error());
+    die("Koneksi gagal: " . mysqli_connect_error());
 }
-?>
 ```
 
 Aplikasi Sistem Informasi Perpustakaan ini dibangun menggunakan PHP dan MySQL dengan konsep CRUD sebagai inti pengelolaan data. Seluruh koneksi database dipusatkan pada file `koneksi.php` agar setiap halaman dapat mengakses database dengan cara yang konsisten dan lebih mudah dikelola. File ini berfungsi sebagai penghubung antara aplikasi dan database MySQL sehingga seluruh proses pengambilan, penyimpanan, dan pengolahan data dapat berjalan dengan baik.
